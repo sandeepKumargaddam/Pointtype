@@ -2,9 +2,9 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableEnhancedLookup>false</enableEnhancedLookup>
     <fields>
-        <fullName>Token_Conversion_Mode__c</fullName>
+        <fullName>Customer Satisfaction_Conversion_Mode__c</fullName>
         <externalId>false</externalId>
-        <label>Token Conversion Mode</label>
+        <label>Customer Satisfaction Conversion Mode</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
@@ -20,9 +20,9 @@
         </valueSet>
     </fields>
     <fields>
-        <fullName>Token_Conversion_Value__c</fullName>
+        <fullName>Customer Satisfaction_Conversion_Value__c</fullName>
         <externalId>false</externalId>
-        <label>Token Conversion Value</label>
+        <label>Customer Satisfaction Conversion Value</label>
         <precision>14</precision>
         <required>false</required>
         <scale>2</scale>
@@ -31,17 +31,17 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Token_Expiration_Date__c</fullName>
+        <fullName>Customer Satisfaction_Expiration_Date__c</fullName>
         <externalId>false</externalId>
-        <label>Token Expiration Date</label>
+        <label>Customer Satisfaction Expiration Date</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
     <fields>
-        <fullName>Token_Expiration_Mode__c</fullName>
+        <fullName>Customer Satisfaction_Expiration_Mode__c</fullName>
         <externalId>false</externalId>
-        <label>Token Expiration Mode</label>
+        <label>Customer Satisfaction Expiration Mode</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
@@ -57,9 +57,9 @@
         </valueSet>
     </fields>
     <fields>
-        <fullName>Token_Field_Name__c</fullName>
+        <fullName>Customer Satisfaction_Field_Name__c</fullName>
         <externalId>false</externalId>
-        <label>Token Field Name</label>
+        <label>Customer Satisfaction Field Name</label>
         <length>80</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -67,9 +67,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Token_Reflection__c</fullName>
+        <fullName>Customer Satisfaction_Reflection__c</fullName>
         <externalId>false</externalId>
-        <label>Token Reflection</label>
+        <label>Customer Satisfaction Reflection</label>
         <length>50</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -77,9 +77,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Token_months_until_expiration__c</fullName>
+        <fullName>Customer Satisfaction_months_until_expiration__c</fullName>
         <externalId>false</externalId>
-        <label>Token months until expiration</label>
+        <label>Customer Satisfaction months until expiration</label>
         <precision>4</precision>
         <required>false</required>
         <scale>0</scale>
